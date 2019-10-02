@@ -1,2 +1,4 @@
 # mod3_project_mmk
-data science Mod3 project analyzing the energy sector
+'''
+Comprehensive analysis of New York energy grid data for the purpose of Energy Arbitrage or Industrial production energy usage optimization using data from eia.gov API queries
+'''
